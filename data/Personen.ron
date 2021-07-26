@@ -1,0 +1,75 @@
+<	M-0
+	ID = 123
+	name = John
+	surname = Johnson
+	unioncard = s1234567
+	mail = john.johnson@example.com
+	phonenumber = +31 612345678
+	address = 5th Street
+	house_number = 1000A
+	postalcode = 1234 AB
+	city = Amsterdam
+	country = Nederland
+	iban = NL00 BANK 0000 0000 00
+	bic = BANKNL2X
+	membership_period = Full year (continuous)
+	prescribed = false
+	membershipstarted = 01-01-2017 23:59
+	experience = [null]
+	yearsMember = 0
+	tournaments = false
+	dms_subscribe = false
+	dms_paid = false
+	transactions = {#T-0}
+	levels = {}
+>
+<	M-1
+	ID = 124
+	name = Maria
+	surname = Johnson
+	unioncard = s1234568
+	mail = maria.johnson@example.com
+	phonenumber = +31 612345679
+	address = 5th Street
+	house_number = 1000B
+	postalcode = 1234 AB
+	city = Amsterdam
+	country = Nederland
+	iban = NL00 BANK 0000 0000 00
+	bic = BANKNL2X
+	membership_period = Full year (continuous)
+	prescribed = false
+	membershipstarted = 01-01-2017 23:59
+	experience = [null]
+	yearsMember = 0
+	tournaments = false
+	dms_subscribe = false
+	dms_paid = false
+	transactions = {}
+	levels = {}
+>
+<	M-2
+	ID = 1236
+	name = Michael
+	surname = Smith
+	unioncard = 
+	mail = michael.smith@example.com
+	phonenumber = +31 6 0000 1243 56
+	address = 6th Avenue
+	house_number = 253
+	postalcode = 4321 XZ
+	city = Amsterdam
+	country = Nederland
+	iban = NL 00 BANK 0000 0000 00
+	bic = BANKNL2X
+	membership_period = 
+	prescribed = false
+	membershipstarted = 01-01-2017 00:00
+	experience = false
+	yearsMember = 0
+	tournaments = false
+	dms_subscribe = false
+	dms_paid = false
+	transactions = {}
+	levels = {}
+>
